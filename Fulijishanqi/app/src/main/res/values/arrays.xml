@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lilvshijian">
+        <item>日利率</item>
+        <item>周利率</item>
+        <item>双周利率</item>
+        <item>月利率</item>
+        <item>双月利率</item>
+        <item>季度利率</item>
+        <item>半年利率</item>
+        <item>年利率</item>
+    </string-array>
+    <string-array name="lilvqishu">
+        <item>每日一期</item>
+        <item>每周一期</item>
+        <item>每双周一期</item>
+        <item>每月一期</item>
+        <item>每双月一期</item>
+        <item>每季度一期</item>
+        <item>每半年一期</item>
+        <item>每年一期</item>
+    </string-array>
+</resources>

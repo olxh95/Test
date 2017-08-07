@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">复利计算器</string>
+    <string name="action_settings">Settings</string>
+    <string name="benjin">本金</string>
+    <string name="rmb">人民币</string>
+    <string name="fuli">复利</string>
+    <string name="shangshubenjin">每期都投入上述本金</string>
+    <string name="lilv">利率</string>
+    <string name="rililv">日利率</string>
+    <string name="zhoulilv">周利率</string>
+    <string name="szhoulilv">双周利率</string>
+    <string name="yuelilv">月利率</string>
+    <string name="syuelilv">双月利率</string>
+    <string name="jidulilv">季度利率</string>
+    <string name="bannianlilv">半年利率</string>
+    <string name="nianlilv">年利率</string>
+    <string name="qishu">期数</string>
+    <string name="mri">每日一期</string>
+    <string name="mzhou">每周一期</string>
+    <string name="mszhou">每双周一期</string>
+    <string name="myue">每月一期</string>
+    <string name="msyue">每双月一期</string>
+    <string name="mjidu">每季度一期</string>
+    <string name="mbiannian">每半年一期</string>
+    <string name="mnian">每年一期</string>
+    <string name="tixianfeilv">提现费率</string>
+    <string name="huoli">获利</string>
+    <string name="benlihe">本利和</string>
+    <string name="tixianfeiyong">提现费用</string>
+    <string name="ketixianjin">可提现金</string>
+    <string name="jisuan">计算</string>
+    <string name="chongzhi">重置</string>
+    <string name="ptjisuanqi">普通计算器</string>
+    <string name="baifenhao">%</string>
+
+</resources>
